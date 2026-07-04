@@ -8,14 +8,33 @@ This repository documents my journey of learning **CSS3** through daily practice
 
 # 📚 Learning Progress
 
-## ✅ Day 01
+## ✅ Day 01 - CSS Basics
 - Introduction to CSS
 - External CSS
 - CSS Syntax
 - CSS Selectors
 - Applying Styles with External Stylesheet
 
+## ✅ Day 02 - CSS Class & ID
+- Class Selector
+- ID Selector
+- Multiple Classes
+- Combining Selectors
+- Practical Examples of Class and ID
+
 More topics will be added as I continue learning CSS.
+
+---
+
+# 📁 Repository Structure
+
+```
+CSS-Learning/
+│
+├── Day01_CSS_Basics/
+├── Day02_CSS_Class_and_ID/
+└── README.md
+```
 
 ---
 
@@ -23,6 +42,9 @@ More topics will be added as I continue learning CSS.
 
 - HTML5
 - CSS3
+- Visual Studio Code
+- Git
+- GitHub
 
 ---
 
@@ -33,22 +55,22 @@ The purpose of this repository is to:
 - Learn CSS from beginner to advanced level.
 - Practice every CSS concept through hands-on coding.
 - Build responsive web pages.
-- Create beautiful UI designs.
+- Create clean and maintainable stylesheets.
 - Prepare for modern Frontend Development.
 
 ---
 
 # 📈 Current Progress
 
-- ✅ 1 Learning Day Completed
-- ✅ External CSS Learned
-- 🔄 Learning CSS Fundamentals
+- ✅ 2 Learning Days Completed
+- ✅ CSS Basics Learned
+- ✅ Class & ID Selectors Learned
+- 🔄 Continuing CSS Fundamentals
 
 ---
 
 # 🚀 Upcoming Topics
 
-- CSS Selectors
 - CSS Colors
 - CSS Backgrounds
 - CSS Borders
@@ -80,7 +102,7 @@ More topics and projects will be added as I continue learning.
 **MD Raihan**
 
 - 🎓 CSE Student, Jashore University of Science and Technology (JUST)
-- 💻 Aspiring Web Developer
+- 💻 Aspiring Frontend Developer
 - 🏆 Competitive Programming Enthusiast
 - 🚀 Passionate about Problem Solving and Continuous Learning
 
