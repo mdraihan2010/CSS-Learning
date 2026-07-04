@@ -1,0 +1,24 @@
+/* Class Selector */
+.highlight-text {
+    color: black;
+    background-color: aqua;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* ID Selector */
+#important-message {
+    color: red;
+    background-color: green;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+/* ID Selector */
+#profile-name {
+    color: white;
+    background-color: black;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
