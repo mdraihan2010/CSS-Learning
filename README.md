@@ -36,18 +36,29 @@ This repository documents my journey of learning **CSS3** through daily practice
 - Line Height
 - Text Shadow
 
+## ✅ Day 04 - CSS Box Model
+- Width
+- Height
+- Border
+- Margin
+- Padding
+- CSS Box Model
+- Box Sizing
+- Practical Box Model Examples
+
 More topics will be added as I continue learning CSS.
 
 ---
 
 # 📁 Repository Structure
 
-```
+```text
 CSS-Learning/
 │
 ├── Day01_CSS_Basics/
 ├── Day02_CSS_Class_and_ID/
 ├── Day03_CSS_Fonts_and_Text_Styling/
+├── Day04_CSS_Box_Model/
 └── README.md
 ```
 
@@ -77,10 +88,11 @@ The purpose of this repository is to:
 
 # 📈 Current Progress
 
-- ✅ 3 Learning Days Completed
+- ✅ 4 Learning Days Completed
 - ✅ CSS Basics Learned
 - ✅ Class & ID Selectors Learned
 - ✅ Fonts & Text Styling Learned
+- ✅ CSS Box Model Learned
 - 🔄 Continuing CSS Fundamentals
 
 ---
@@ -90,10 +102,10 @@ The purpose of this repository is to:
 - CSS Colors
 - CSS Backgrounds
 - CSS Borders
-- Margin & Padding
-- Box Model
 - Display
 - Position
+- Float
+- Overflow
 - Flexbox
 - Grid
 - Responsive Design
