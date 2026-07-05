@@ -1,0 +1,74 @@
+#main-heading{
+
+    /* Changes text color */
+    color: #1a237e;
+
+    /* Changes background color */
+    background-color: #e8eaf6;
+
+    /* Changes font style */
+    font-family: Arial, Helvetica, sans-serif;
+
+    /* Changes text size */
+    font-size: 40px;
+
+    /* Makes text bold */
+    font-weight: bold;
+
+    /* Aligns text to the center */
+    text-align: center;
+
+    /* Adds underline */
+    text-decoration: underline;
+
+    /* Adds space between letters */
+    letter-spacing: 5px;
+
+}
+
+
+.sub-heading{
+
+    color: darkgreen;
+
+    font-family: Verdana, sans-serif;
+
+    font-size: 28px;
+
+    text-align: center;
+
+    text-transform: capitalize;
+
+}
+
+
+.paragraph{
+
+    /* Text color */
+    color: red;
+
+    /* Background color */
+    background-color: rgb(255, 255, 255);
+
+    /* Font family */
+    font-family: "Times New Roman", serif;
+
+    /* Font size */
+    font-size: 20px;
+
+    /* Font style */
+    font-style: italic;
+
+    /* Font thickness */
+    font-weight: bold;
+
+    /* Converts text to uppercase */
+    text-transform: uppercase;
+
+    /* Space between lines */
+    line-height: 35px;
+
+    /* Space between words */
+    word-spacing: 8px;
+
+}
