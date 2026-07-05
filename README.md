@@ -22,6 +22,20 @@ This repository documents my journey of learning **CSS3** through daily practice
 - Combining Selectors
 - Practical Examples of Class and ID
 
+## ✅ Day 03 - CSS Fonts & Text Styling
+- Font Family
+- Font Size
+- Font Weight
+- Font Style
+- Text Color
+- Text Alignment
+- Text Decoration
+- Text Transform
+- Letter Spacing
+- Word Spacing
+- Line Height
+- Text Shadow
+
 More topics will be added as I continue learning CSS.
 
 ---
@@ -33,6 +47,7 @@ CSS-Learning/
 │
 ├── Day01_CSS_Basics/
 ├── Day02_CSS_Class_and_ID/
+├── Day03_CSS_Fonts_and_Text_Styling/
 └── README.md
 ```
 
@@ -62,9 +77,10 @@ The purpose of this repository is to:
 
 # 📈 Current Progress
 
-- ✅ 2 Learning Days Completed
+- ✅ 3 Learning Days Completed
 - ✅ CSS Basics Learned
 - ✅ Class & ID Selectors Learned
+- ✅ Fonts & Text Styling Learned
 - 🔄 Continuing CSS Fundamentals
 
 ---
