@@ -1,74 +1,127 @@
-#main-heading{
+/* ===========================
+   Body Styling
+=========================== */
 
-    /* Changes text color */
-    color: #1a237e;
+body {
 
-    /* Changes background color */
-    background-color: #e8eaf6;
+    background-color: #f4f4f4;
 
-    /* Changes font style */
     font-family: Arial, Helvetica, sans-serif;
 
-    /* Changes text size */
+    padding: 30px;
+
+}
+
+
+/* ===========================
+   Main Heading
+=========================== */
+
+#main-heading {
+
+    /* Text Color */
+    color: #1a237e;
+
+    /* Background Color */
+    background-color: #e8eaf6;
+
+    /* Font Family */
+    font-family: Arial, Helvetica, sans-serif;
+
+    /* Font Size */
     font-size: 40px;
 
-    /* Makes text bold */
+    /* Font Weight */
     font-weight: bold;
 
-    /* Aligns text to the center */
+    /* Text Alignment */
     text-align: center;
 
-    /* Adds underline */
+    /* Text Decoration */
     text-decoration: underline;
 
-    /* Adds space between letters */
+    /* Letter Spacing */
     letter-spacing: 5px;
 
+    /* Text Shadow */
+    text-shadow: 2px 2px 4px gray;
+
 }
 
 
-.sub-heading{
+/* ===========================
+   Sub Heading
+=========================== */
 
+.sub-heading {
+
+    /* Text Color */
     color: darkgreen;
 
-    font-family: Verdana, sans-serif;
+    /* Font Family */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 
+    /* Font Size */
     font-size: 28px;
 
+    /* Font Weight */
+    font-weight: 600;
+
+    /* Text Alignment */
     text-align: center;
 
+    /* Text Transform */
     text-transform: capitalize;
+
+    /* Text Shadow */
+    text-shadow: 1px 1px 2px lightgray;
 
 }
 
 
-.paragraph{
+/* ===========================
+   Paragraph
+=========================== */
 
-    /* Text color */
+.paragraph {
+
+    /* Text Color */
     color: red;
 
-    /* Background color */
-    background-color: rgb(255, 255, 255);
+    /* Background Color */
+    background-color: white;
 
-    /* Font family */
-    font-family: "Times New Roman", serif;
+    /* Font Family */
+    font-family: "Times New Roman", Times, serif;
 
-    /* Font size */
+    /* Font Size */
     font-size: 20px;
 
-    /* Font style */
+    /* Font Style */
     font-style: italic;
 
-    /* Font thickness */
+    /* Font Weight */
     font-weight: bold;
 
-    /* Converts text to uppercase */
+    /* Text Alignment */
+    text-align: justify;
+
+    /* Text Decoration */
+    text-decoration: none;
+
+    /* Text Transform */
     text-transform: uppercase;
 
-    /* Space between lines */
+    /* Letter Spacing */
+    letter-spacing: 2px;
+
+    /* Word Spacing */
+    word-spacing: 8px;
+
+    /* Line Height */
     line-height: 35px;
 
-    /* Space between words */
-    word-spacing: 8px;
+    /* Text Shadow */
+    text-shadow: 1px 1px 2px silver;
 
 }
