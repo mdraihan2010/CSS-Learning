@@ -1,0 +1,106 @@
+/* ===========================
+   Body Styling
+=========================== */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f4f4;
+    padding: 30px;
+}
+
+
+/* ===========================
+   Main Heading
+   display: inline-block;
+=========================== */
+
+#main-heading {
+
+    background-color: green;
+    color: white;
+
+    display: inline-block;
+
+    padding: 10px 20px;
+
+    border: 2px solid red;
+
+    margin-bottom: 20px;
+}
+
+
+/* ===========================
+   Sub Heading
+   display: block;
+=========================== */
+
+#sub-heading {
+
+    background-color: royalblue;
+    color: white;
+
+    display: block;
+
+    max-width: 400px;
+
+    padding: 15px;
+
+    border: 2px solid red;
+
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+
+/* ===========================
+   Paragraph
+=========================== */
+
+#content-box {
+
+    font-family: "Times New Roman", Times, serif;
+
+    background-color: white;
+
+    max-width: 600px;
+
+    border: 2px solid limegreen;
+
+    padding: 20px;
+
+    margin: auto;
+
+    line-height: 1.7;
+
+    text-align: justify;
+
+    border-radius: 10px;
+}
+
+
+/* ===========================
+   display: inline;
+=========================== */
+
+.inline-box {
+
+    display: inline;
+
+    background-color: orange;
+
+    color: white;
+
+    padding: 10px;
+
+    border: 2px solid black;
+}
+
+
+/* ===========================
+   display: none;
+=========================== */
+
+.hidden-text {
+
+    display: none;
+}
