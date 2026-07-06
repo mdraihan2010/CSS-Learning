@@ -46,6 +46,17 @@ This repository documents my journey of learning **CSS3** through daily practice
 - Box Sizing
 - Practical Box Model Examples
 
+## ✅ Day 05 - CSS Display & Width
+- Display Property
+- Block Elements
+- Inline Elements
+- Inline-Block Elements
+- Display: None
+- Width Property
+- Max-Width
+- Min-Width
+- Practical Examples of Display and Width
+
 More topics will be added as I continue learning CSS.
 
 ---
@@ -59,6 +70,7 @@ CSS-Learning/
 ├── Day02_CSS_Class_and_ID/
 ├── Day03_CSS_Fonts_and_Text_Styling/
 ├── Day04_CSS_Box_Model/
+├── Day05_CSS_Display_and_Width/
 └── README.md
 ```
 
@@ -88,11 +100,12 @@ The purpose of this repository is to:
 
 # 📈 Current Progress
 
-- ✅ 4 Learning Days Completed
+- ✅ 5 Learning Days Completed
 - ✅ CSS Basics Learned
 - ✅ Class & ID Selectors Learned
 - ✅ Fonts & Text Styling Learned
 - ✅ CSS Box Model Learned
+- ✅ Display & Width Properties Learned
 - 🔄 Continuing CSS Fundamentals
 
 ---
@@ -102,10 +115,10 @@ The purpose of this repository is to:
 - CSS Colors
 - CSS Backgrounds
 - CSS Borders
-- Display
+- Height
+- Overflow
 - Position
 - Float
-- Overflow
 - Flexbox
 - Grid
 - Responsive Design
