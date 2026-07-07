@@ -1,0 +1,292 @@
+/* ===========================
+   Body
+=========================== */
+
+body{
+
+    font-family: 'Times New Roman', Times, serif;
+
+    background-color:#f4f4f4;
+
+    margin: 0;
+
+    padding:40px;
+
+}
+
+
+/* ===========================
+   Container
+=========================== */
+
+.container{
+
+    max-width:800px;
+
+    margin:auto;
+
+    background:white;
+
+    padding:30px;
+
+    border-radius:10px;
+
+    border:2px solid lightgray;
+
+}
+
+
+/* ===========================
+   Heading
+=========================== */
+
+.heading{
+
+    text-align:center;
+
+    color:darkblue;
+
+}
+
+
+/* ===========================
+   Pseudo Element
+   ::before
+=========================== */
+
+.heading::before{
+
+    content:"📘 ";
+
+}
+
+
+/* ===========================
+   Pseudo Element
+   ::after
+=========================== */
+
+.heading::after{
+
+    content:" 🚀";
+
+}
+
+
+/* ===========================
+   Paragraph
+=========================== */
+
+.paragraph{
+
+    font-size:20px;
+
+    line-height:1.8;
+
+    text-align:justify;
+
+}
+
+
+/* ===========================
+   Pseudo Element
+   ::first-letter
+=========================== */
+
+.paragraph::first-letter{
+
+    font-size:40px;
+
+    color:red;
+
+    font-weight:bold;
+
+}
+
+
+/* ===========================
+   Pseudo Element
+   ::first-line
+=========================== */
+
+.paragraph::first-line{
+
+    color:green;
+
+    font-weight:bold;
+
+}
+
+
+/* ===========================
+   Pseudo Element
+   ::selection
+=========================== */
+
+.paragraph::selection{
+
+    background:black;
+
+    color:white;
+
+}
+
+
+/* ===========================
+   Link
+=========================== */
+
+a{
+
+    color:blue;
+
+    text-decoration:none;
+
+    font-weight:bold;
+
+}
+
+
+/* ===========================
+   Pseudo Class
+   :hover
+=========================== */
+
+a:hover{
+
+    color:red;
+
+    text-decoration:underline;
+
+}
+
+
+/* ===========================
+   Pseudo Class
+   :visited
+=========================== */
+
+a:visited{
+
+    color:purple;
+
+}
+
+
+/* ===========================
+   Button
+=========================== */
+
+button{
+
+    background:rgb(255, 2, 192);
+
+    color:white;
+
+    border:none;
+
+    padding:12px 20px;
+
+    border-radius:5px;
+
+    cursor:pointer;
+
+}
+
+
+/* ===========================
+   Pseudo Class
+   :hover
+=========================== */
+
+button:hover{
+
+    background:rgb(3, 159, 3);
+
+}
+
+
+/* ===========================
+   Pseudo Class
+   :active
+=========================== */
+
+button:active{
+
+    background:red;
+
+}
+
+
+/* ===========================
+   Input
+=========================== */
+
+input{
+
+    width:20%;
+
+    padding:10px;
+
+    margin-top:20px;
+
+    border:2px solid gray;
+
+    border-radius:5px;
+
+
+
+}
+
+
+/* ===========================
+   Pseudo Class
+   :focus
+=========================== */
+
+input:focus{
+
+    border:2px solid blue;
+
+    outline:none;
+
+}
+
+
+/* ===========================
+   List
+=========================== */
+
+ul{
+
+    margin-top:20px;
+
+}
+
+
+/* ===========================
+   Pseudo Class
+   :first-child
+=========================== */
+
+li:first-child{
+
+    color:red;
+
+    font-weight:bold;
+
+}
+
+
+/* ===========================
+   Pseudo Class
+   :last-child
+=========================== */
+
+li:last-child{
+
+    color:green;
+
+    font-weight:bold;
+
+}
