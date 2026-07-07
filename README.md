@@ -73,6 +73,18 @@ This repository documents my journey of learning **CSS3** through daily practice
 - ::first-line
 - Practical Examples of Pseudo Classes and Pseudo Elements
 
+## ✅ Day 07 - CSS Specificity
+- What is CSS Specificity
+- Specificity Hierarchy
+- Inline Styles
+- ID Selectors
+- Class Selectors
+- Element Selectors
+- Universal Selector
+- !important Rule
+- Calculating Specificity
+- Practical Examples of CSS Specificity
+
 More topics will be added as I continue learning CSS.
 
 ---
@@ -88,6 +100,7 @@ CSS-Learning/
 ├── Day04_CSS_Box_Model/
 ├── Day05_CSS_Display_and_Width/
 ├── Day06_CSS_Pseudo_Class_and_Element/
+├── Day07_CSS_Specificity/
 └── README.md
 ```
 
@@ -117,13 +130,14 @@ The purpose of this repository is to:
 
 # 📈 Current Progress
 
-- ✅ 6 Learning Days Completed
+- ✅ 7 Learning Days Completed
 - ✅ CSS Basics Learned
 - ✅ Class & ID Selectors Learned
 - ✅ Fonts & Text Styling Learned
 - ✅ CSS Box Model Learned
 - ✅ Display & Width Properties Learned
 - ✅ Pseudo Classes & Pseudo Elements Learned
+- ✅ CSS Specificity Learned
 - 🔄 Continuing CSS Fundamentals
 
 ---
