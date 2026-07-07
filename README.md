@@ -57,6 +57,22 @@ This repository documents my journey of learning **CSS3** through daily practice
 - Min-Width
 - Practical Examples of Display and Width
 
+## ✅ Day 06 - CSS Pseudo Class & Pseudo Element
+- Pseudo Classes
+- :hover
+- :active
+- :visited
+- :link
+- :focus
+- :first-child
+- :last-child
+- Pseudo Elements
+- ::before
+- ::after
+- ::first-letter
+- ::first-line
+- Practical Examples of Pseudo Classes and Pseudo Elements
+
 More topics will be added as I continue learning CSS.
 
 ---
@@ -71,6 +87,7 @@ CSS-Learning/
 ├── Day03_CSS_Fonts_and_Text_Styling/
 ├── Day04_CSS_Box_Model/
 ├── Day05_CSS_Display_and_Width/
+├── Day06_CSS_Pseudo_Class_and_Element/
 └── README.md
 ```
 
@@ -100,12 +117,13 @@ The purpose of this repository is to:
 
 # 📈 Current Progress
 
-- ✅ 5 Learning Days Completed
+- ✅ 6 Learning Days Completed
 - ✅ CSS Basics Learned
 - ✅ Class & ID Selectors Learned
 - ✅ Fonts & Text Styling Learned
 - ✅ CSS Box Model Learned
 - ✅ Display & Width Properties Learned
+- ✅ Pseudo Classes & Pseudo Elements Learned
 - 🔄 Continuing CSS Fundamentals
 
 ---
@@ -124,6 +142,7 @@ The purpose of this repository is to:
 - Responsive Design
 - Animations
 - Transitions
+- CSS Variables
 - CSS Projects
 
 More topics and projects will be added as I continue learning.
