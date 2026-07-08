@@ -85,6 +85,19 @@ This repository documents my journey of learning **CSS3** through daily practice
 - Calculating Specificity
 - Practical Examples of CSS Specificity
 
+## ✅ Day 08 - CSS Background
+- Background Color
+- Background Image
+- Background Repeat
+- Background Position
+- Background Size
+- Background Attachment
+- Background Shorthand
+- Multiple Backgrounds
+- Linear Gradient
+- Radial Gradient
+- Practical Examples of CSS Backgrounds
+
 More topics will be added as I continue learning CSS.
 
 ---
@@ -101,6 +114,7 @@ CSS-Learning/
 ├── Day05_CSS_Display_and_Width/
 ├── Day06_CSS_Pseudo_Class_and_Element/
 ├── Day07_CSS_Specificity/
+├── Day08_CSS_Background/
 └── README.md
 ```
 
@@ -130,7 +144,7 @@ The purpose of this repository is to:
 
 # 📈 Current Progress
 
-- ✅ 7 Learning Days Completed
+- ✅ 8 Learning Days Completed
 - ✅ CSS Basics Learned
 - ✅ Class & ID Selectors Learned
 - ✅ Fonts & Text Styling Learned
@@ -138,6 +152,7 @@ The purpose of this repository is to:
 - ✅ Display & Width Properties Learned
 - ✅ Pseudo Classes & Pseudo Elements Learned
 - ✅ CSS Specificity Learned
+- ✅ CSS Backgrounds Learned
 - 🔄 Continuing CSS Fundamentals
 
 ---
@@ -145,7 +160,6 @@ The purpose of this repository is to:
 # 🚀 Upcoming Topics
 
 - CSS Colors
-- CSS Backgrounds
 - CSS Borders
 - Height
 - Overflow
