@@ -1,0 +1,146 @@
+/* Body */
+
+body{
+
+    margin:0;
+
+    padding:30px;
+
+    font-family:Arial, Helvetica, sans-serif;
+
+    background-color:#f4f4f4;
+
+}
+
+h1{
+
+    text-align:center;
+
+    margin-bottom:40px;
+
+}
+
+
+/* Common Box Style */
+
+.box{
+
+    height:250px;
+
+    margin-bottom:40px;
+
+    padding:20px;
+
+    border:3px solid black;
+
+    border-radius:10px;
+
+    color:white;
+
+    text-shadow:2px 2px 5px black;
+
+}
+
+
+/* ======================================
+   1. background-color
+====================================== */
+
+.color-box{
+
+    background-color:steelblue;
+
+}
+
+
+/* ======================================
+   2. background-image
+====================================== */
+
+.image-box{
+
+    background-image:url("images.jpeg");
+
+}
+
+
+/* ======================================
+   3. background-repeat
+====================================== */
+
+.repeat-box{
+
+    background-image:url("images (1).jpeg");
+
+    background-repeat:repeat;
+
+}
+
+
+/* ======================================
+   4. background-position
+====================================== */
+
+.position-box{
+
+    background-image:url("images (2).jpeg");
+
+    background-repeat:no-repeat;
+
+    background-position:center;
+
+}
+
+
+/* ======================================
+   5. background-size
+====================================== */
+
+.size-box{
+
+    background-image:url("images (3).jpeg");
+
+    background-repeat:no-repeat;
+
+    background-position:center;
+
+    background-size:cover;
+
+}
+
+
+/* ======================================
+   6. background-attachment
+====================================== */
+
+.attachment-box{
+
+    background-image:url("images (4).jpeg");
+
+    background-repeat:no-repeat;
+
+    background-position:center;
+
+    background-size:cover;
+
+    background-attachment:fixed;
+
+}
+
+
+/* ======================================
+   7. background (Shorthand)
+====================================== */
+
+.shorthand-box{
+
+    background:
+    #333
+    url("images (5).jpeg")
+    no-repeat
+    center
+    center
+    / cover
+    fixed;
+
+}
