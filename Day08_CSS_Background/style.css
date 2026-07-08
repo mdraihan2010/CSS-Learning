@@ -144,3 +144,24 @@ h1{
     fixed;
 
 }
+
+/* ======================================
+   8. Linear Gradient
+====================================== */
+
+.linear-gradient-box{
+
+    background: linear-gradient(to right, #2193b0, #6dd5ed);
+
+}
+
+
+/* ======================================
+   9. Radial Gradient
+====================================== */
+
+.radial-gradient-box{
+
+    background: radial-gradient(circle, #14ae0c, #e00b0b);
+
+}
