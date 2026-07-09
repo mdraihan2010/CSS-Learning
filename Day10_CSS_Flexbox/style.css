@@ -1,0 +1,89 @@
+/* ===========================
+   Body
+=========================== */
+
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    background-color:#f4f4f4;
+
+    margin:30px;
+
+}
+
+h1{
+
+    text-align:center;
+
+    margin-bottom:40px;
+
+}
+
+h2{
+
+    text-align:center;
+
+    margin-bottom:25px;
+
+}
+
+
+/* ==========================================
+   Flex Container
+========================================== */
+
+.flex-container{
+
+    /* Turns the container into a Flex Container */
+    display:flex;
+
+    /* Main Axis Direction */
+    flex-direction:row;
+
+    /* Horizontal Alignment */
+    justify-content:center;
+
+    /* Vertical Alignment */
+    align-items:center;
+
+    /* Space Between Items */
+    gap:20px;
+
+    /* Items Move to Next Line if Needed */
+    flex-wrap:wrap;
+
+    background:white;
+
+    border:2px solid gray;
+
+    border-radius:10px;
+
+    padding:30px;
+
+}
+
+
+/* ==========================================
+   Flex Items
+========================================== */
+
+.flex-item{
+
+    background:royalblue;
+
+    color:white;
+
+    padding:25px;
+
+    width:140px;
+
+    text-align:center;
+
+    font-size:20px;
+
+    border-radius:8px;
+
+    font-weight:bold;
+
+}

@@ -1,0 +1,93 @@
+/* ===========================
+   Body
+=========================== */
+
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    background-color:#f4f4f4;
+
+    margin:30px;
+
+}
+
+h1{
+
+    text-align:center;
+
+    margin-bottom:40px;
+
+}
+
+h2{
+
+    text-align:center;
+
+    margin-bottom:25px;
+
+}
+
+
+/* ==========================================
+   Grid Container
+========================================== */
+
+.grid-container{
+
+    /* Turns the container into a Grid Container */
+    display:grid;
+
+    /* Creates 3 Equal Columns */
+    grid-template-columns:repeat(3,1fr);
+
+    /* Creates 2 Rows */
+    grid-template-rows:120px 120px;
+
+    /* Space Between Rows & Columns */
+    gap:20px;
+
+    /* Horizontal Alignment */
+    justify-items:center;
+
+    /* Vertical Alignment */
+    align-items:center;
+
+    background:white;
+
+    border:2px solid gray;
+
+    border-radius:10px;
+
+    padding:30px;
+
+}
+
+
+/* ==========================================
+   Grid Items
+========================================== */
+
+.grid-item{
+
+    background:royalblue;
+
+    color:white;
+
+    width:120px;
+
+    height:80px;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    border-radius:8px;
+
+    font-size:20px;
+
+    font-weight:bold;
+
+}

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Float Practice</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>CSS Float Practice</h1>
+
+    <!-- Float Left -->
+
+    <div class="container">
+
+        <h2>Float Left</h2>
+
+        <img src="download (1).jpeg" alt="Profile Image" class="left-image">
+
+        <p>
+            This example demonstrates the <strong>float: left;</strong> property.
+            The image is aligned to the left side, and the paragraph text wraps
+            around the image. Float was widely used in older website layouts.
+        </p>
+
+    </div>
+
+    <!-- Float Right -->
+
+    <div class="container">
+
+        <h2>Float Right</h2>
+
+        <img src="download.jpeg" alt="Profile Image" class="right-image">
+
+        <p>
+            This example demonstrates the <strong>float: right;</strong> property.
+            The image is aligned to the right side, and the paragraph text wraps
+            around the image from the left.
+        </p>
+
+    </div>
+
+    <!-- Float None -->
+
+    <div class="container">
+
+        <h2>Float None</h2>
+
+        <img src="download (2).jpeg" alt="Profile Image" class="none-image">
+
+        <p>
+            This example demonstrates the <strong>float: none;</strong> property.
+            The image remains in its normal position and the text starts below
+            the image instead of wrapping around it.
+        </p>
+
+    </div>
+
+    <!-- Clear Both -->
+
+    <div class="container clear-demo">
+
+        <h2>Clear Property</h2>
+
+        <div class="left-box">Left Box</div>
+
+        <div class="right-box">Right Box</div>
+
+        <p class="clear-text">
+            This paragraph uses <strong>clear: both;</strong>. Therefore, it
+            starts below both floated boxes instead of appearing beside them.
+        </p>
+
+    </div>
+
+</body>
+</html>
