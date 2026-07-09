@@ -98,6 +98,50 @@ This repository documents my journey of learning **CSS3** through daily practice
 - Radial Gradient
 - Practical Examples of CSS Backgrounds
 
+## ✅ Day 09 - CSS Float
+- Float Property
+- Left Float
+- Right Float
+- Clear Property
+- Float Layout Examples
+- Practical Examples of Float
+
+## ✅ Day 10 - CSS Flexbox
+- Flex Container
+- Flex Items
+- flex-direction
+- justify-content
+- align-items
+- align-content
+- flex-wrap
+- gap
+- flex-grow
+- flex-shrink
+- flex-basis
+- Practical Flexbox Layouts
+
+## ✅ Day 11 - CSS Grid
+- Grid Container
+- Grid Items
+- grid-template-columns
+- grid-template-rows
+- gap
+- grid-column
+- grid-row
+- Grid Areas
+- Responsive Grid Layouts
+- Practical CSS Grid Examples
+
+## ✅ Day 12 - CSS Position
+- position: static
+- position: relative
+- position: absolute
+- position: fixed
+- position: sticky
+- z-index
+- Positioning Elements
+- Practical Position Examples
+
 More topics will be added as I continue learning CSS.
 
 ---
@@ -115,6 +159,10 @@ CSS-Learning/
 ├── Day06_CSS_Pseudo_Class_and_Element/
 ├── Day07_CSS_Specificity/
 ├── Day08_CSS_Background/
+├── Day09_CSS_Float/
+├── Day10_CSS_Flexbox/
+├── Day11_CSS_Grid/
+├── Day12_CSS_Position/
 └── README.md
 ```
 
@@ -144,7 +192,7 @@ The purpose of this repository is to:
 
 # 📈 Current Progress
 
-- ✅ 8 Learning Days Completed
+- ✅ 12 Learning Days Completed
 - ✅ CSS Basics Learned
 - ✅ Class & ID Selectors Learned
 - ✅ Fonts & Text Styling Learned
@@ -153,7 +201,11 @@ The purpose of this repository is to:
 - ✅ Pseudo Classes & Pseudo Elements Learned
 - ✅ CSS Specificity Learned
 - ✅ CSS Backgrounds Learned
-- 🔄 Continuing CSS Fundamentals
+- ✅ Float Layouts Learned
+- ✅ Flexbox Learned
+- ✅ CSS Grid Learned
+- ✅ CSS Positioning Learned
+- 🔄 Continuing Advanced CSS
 
 ---
 
@@ -161,16 +213,13 @@ The purpose of this repository is to:
 
 - CSS Colors
 - CSS Borders
-- Height
 - Overflow
-- Position
-- Float
-- Flexbox
-- Grid
-- Responsive Design
-- Animations
-- Transitions
+- CSS Transform
+- CSS Transition
+- CSS Animation
 - CSS Variables
+- Media Queries
+- Responsive Web Design
 - CSS Projects
 
 More topics and projects will be added as I continue learning.
