@@ -142,6 +142,27 @@ This repository documents my journey of learning **CSS3** through daily practice
 - Positioning Elements
 - Practical Position Examples
 
+## ✅ Day 13 - CSS Navigation Menu
+- Navigation Bar
+- Horizontal Navigation Menu
+- Vertical Navigation Menu
+- Styling Navigation Links
+- Hover Effects
+- Active Link
+- Dropdown Menu Basics
+- Responsive Navigation Basics
+- Practical Navigation Menu Examples
+
+## ✅ Day 14 - CSS Box Sizing & Opacity
+- box-sizing Property
+- content-box
+- border-box
+- Opacity Property
+- RGBA Colors
+- Transparent Backgrounds
+- Practical Examples of Box Sizing
+- Practical Examples of Opacity
+
 More topics will be added as I continue learning CSS.
 
 ---
@@ -163,6 +184,8 @@ CSS-Learning/
 ├── Day10_CSS_Flexbox/
 ├── Day11_CSS_Grid/
 ├── Day12_CSS_Position/
+├── Day13_CSS_Navigation_Menu/
+├── Day14_CSS_Box_Sizing_and_Opacity/
 └── README.md
 ```
 
@@ -192,7 +215,7 @@ The purpose of this repository is to:
 
 # 📈 Current Progress
 
-- ✅ 12 Learning Days Completed
+- ✅ 14 Learning Days Completed
 - ✅ CSS Basics Learned
 - ✅ Class & ID Selectors Learned
 - ✅ Fonts & Text Styling Learned
@@ -205,15 +228,14 @@ The purpose of this repository is to:
 - ✅ Flexbox Learned
 - ✅ CSS Grid Learned
 - ✅ CSS Positioning Learned
+- ✅ Navigation Menu Design Learned
+- ✅ Box Sizing & Opacity Learned
 - 🔄 Continuing Advanced CSS
 
 ---
 
 # 🚀 Upcoming Topics
 
-- CSS Colors
-- CSS Borders
-- Overflow
 - CSS Transform
 - CSS Transition
 - CSS Animation
