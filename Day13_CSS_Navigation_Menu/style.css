@@ -1,0 +1,170 @@
+/* ===========================
+   Reset
+=========================== */
+
+*{
+
+    margin:0;
+
+    padding:0;
+
+    box-sizing:border-box;
+
+}
+
+
+/* ===========================
+   Body
+=========================== */
+
+body{
+
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+
+/* ===========================
+   Navigation Bar
+=========================== */
+
+nav{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    background-color:#1e3a8a;
+
+    padding:18px 40px;
+
+}
+
+
+/* ===========================
+   Logo
+=========================== */
+
+.logo{
+
+    color:white;
+
+    font-size:28px;
+
+    font-weight:bold;
+
+}
+
+
+/* ===========================
+   Navigation List
+=========================== */
+
+nav ul{
+
+    list-style:none;
+
+    display:flex;
+
+    gap:30px;
+
+}
+
+
+/* ===========================
+   Navigation Links
+=========================== */
+
+nav ul li a{
+
+    color:white;
+
+    text-decoration:none;
+
+    font-size:18px;
+
+    padding:8px 12px;
+
+    border-radius:5px;
+
+}
+
+
+/* ===========================
+   Hover Effect
+=========================== */
+
+nav ul li a:hover{
+
+    background:white;
+
+    color:#1e3a8a;
+
+}
+
+
+/* ===========================
+   Hero Section
+=========================== */
+
+.hero{
+
+    text-align:center;
+
+    padding:100px 20px;
+
+}
+
+
+.hero h1{
+
+    font-size:48px;
+
+    color:#1e3a8a;
+
+    margin-bottom:20px;
+
+}
+
+
+.hero p{
+
+    font-size:20px;
+
+    margin-bottom:30px;
+
+    color:#555;
+
+}
+
+
+/* ===========================
+   Button
+=========================== */
+
+.hero button{
+
+    background:#1e3a8a;
+
+    color:white;
+
+    border:none;
+
+    padding:15px 30px;
+
+    font-size:18px;
+
+    border-radius:6px;
+
+    cursor:pointer;
+
+}
+
+
+.hero button:hover{
+
+    background:#0f255e;
+
+}
