@@ -163,6 +163,19 @@ This repository documents my journey of learning **CSS3** through daily practice
 - Practical Examples of Box Sizing
 - Practical Examples of Opacity
 
+## ✅ Day 15 - CSS Card Design
+- Card Layout
+- Card Header
+- Card Body
+- Card Footer
+- Border Radius
+- Box Shadow
+- Hover Effects
+- Image Styling
+- Button Styling
+- Responsive Card Design
+- Practical Card Design Examples
+
 More topics will be added as I continue learning CSS.
 
 ---
@@ -186,6 +199,7 @@ CSS-Learning/
 ├── Day12_CSS_Position/
 ├── Day13_CSS_Navigation_Menu/
 ├── Day14_CSS_Box_Sizing_and_Opacity/
+├── Day15_CSS_Card_Design/
 └── README.md
 ```
 
@@ -215,7 +229,7 @@ The purpose of this repository is to:
 
 # 📈 Current Progress
 
-- ✅ 14 Learning Days Completed
+- ✅ 15 Learning Days Completed
 - ✅ CSS Basics Learned
 - ✅ Class & ID Selectors Learned
 - ✅ Fonts & Text Styling Learned
@@ -230,6 +244,7 @@ The purpose of this repository is to:
 - ✅ CSS Positioning Learned
 - ✅ Navigation Menu Design Learned
 - ✅ Box Sizing & Opacity Learned
+- ✅ Card Design Learned
 - 🔄 Continuing Advanced CSS
 
 ---
