@@ -176,6 +176,18 @@ This repository documents my journey of learning **CSS3** through daily practice
 - Responsive Card Design
 - Practical Card Design Examples
 
+## ✅ Day 16 - CSS Z-Index & Variables
+- z-index Property
+- Stacking Order
+- Position and z-index
+- CSS Variables
+- Declaring Variables
+- Using var() Function
+- Global Variables
+- Local Variables
+- Variable Fallback Values
+- Practical Examples of CSS Variables
+
 More topics will be added as I continue learning CSS.
 
 ---
@@ -200,6 +212,7 @@ CSS-Learning/
 ├── Day13_CSS_Navigation_Menu/
 ├── Day14_CSS_Box_Sizing_and_Opacity/
 ├── Day15_CSS_Card_Design/
+├── Day16_CSS_Z_Index_and_Variables/
 └── README.md
 ```
 
@@ -229,7 +242,7 @@ The purpose of this repository is to:
 
 # 📈 Current Progress
 
-- ✅ 15 Learning Days Completed
+- ✅ 16 Learning Days Completed
 - ✅ CSS Basics Learned
 - ✅ Class & ID Selectors Learned
 - ✅ Fonts & Text Styling Learned
@@ -245,6 +258,7 @@ The purpose of this repository is to:
 - ✅ Navigation Menu Design Learned
 - ✅ Box Sizing & Opacity Learned
 - ✅ Card Design Learned
+- ✅ Z-Index & CSS Variables Learned
 - 🔄 Continuing Advanced CSS
 
 ---
@@ -254,7 +268,6 @@ The purpose of this repository is to:
 - CSS Transform
 - CSS Transition
 - CSS Animation
-- CSS Variables
 - Media Queries
 - Responsive Web Design
 - CSS Projects
