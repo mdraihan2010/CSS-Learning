@@ -188,6 +188,28 @@ This repository documents my journey of learning **CSS3** through daily practice
 - Variable Fallback Values
 - Practical Examples of CSS Variables
 
+## ✅ Day 17 - CSS Linkable Icon Button
+- Button Styling
+- Linkable Buttons
+- Icon Buttons
+- Font Awesome Icons
+- Hover Effects
+- Active State
+- Transition Effects
+- Button Alignment
+- Practical Examples of Linkable Icon Buttons
+
+## ✅ Day 18 - CSS Dropdown Menu
+- Dropdown Menu Basics
+- Dropdown Button
+- Dropdown Content
+- Hover Dropdown
+- Nested Dropdown Menu
+- Positioning Dropdown
+- Styling Dropdown Menu
+- Responsive Dropdown Menu
+- Practical Dropdown Menu Examples
+
 More topics will be added as I continue learning CSS.
 
 ---
@@ -213,6 +235,8 @@ CSS-Learning/
 ├── Day14_CSS_Box_Sizing_and_Opacity/
 ├── Day15_CSS_Card_Design/
 ├── Day16_CSS_Z_Index_and_Variables/
+├── Day17_CSS_Linkable_Icon_Button/
+├── Day18_CSS_Dropdown_Menu/
 └── README.md
 ```
 
@@ -242,7 +266,7 @@ The purpose of this repository is to:
 
 # 📈 Current Progress
 
-- ✅ 16 Learning Days Completed
+- ✅ 18 Learning Days Completed
 - ✅ CSS Basics Learned
 - ✅ Class & ID Selectors Learned
 - ✅ Fonts & Text Styling Learned
@@ -259,6 +283,8 @@ The purpose of this repository is to:
 - ✅ Box Sizing & Opacity Learned
 - ✅ Card Design Learned
 - ✅ Z-Index & CSS Variables Learned
+- ✅ Linkable Icon Buttons Learned
+- ✅ Dropdown Menu Design Learned
 - 🔄 Continuing Advanced CSS
 
 ---
@@ -268,7 +294,8 @@ The purpose of this repository is to:
 - CSS Transform
 - CSS Transition
 - CSS Animation
-- Media Queries
+- CSS Filters
+- CSS Media Queries
 - Responsive Web Design
 - CSS Projects
 
