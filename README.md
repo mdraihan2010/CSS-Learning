@@ -210,6 +210,19 @@ This repository documents my journey of learning **CSS3** through daily practice
 - Responsive Dropdown Menu
 - Practical Dropdown Menu Examples
 
+## ✅ Day 19 - CSS Responsive Web Design
+- Responsive Web Design Basics
+- Viewport Meta Tag
+- Fluid Layouts
+- Relative Units (`%`, `em`, `rem`, `vw`, `vh`)
+- Responsive Images
+- CSS Media Queries
+- Mobile-First Design
+- Breakpoints
+- Responsive Navigation
+- Responsive Grid & Flexbox Layouts
+- Practical Responsive Web Design Examples
+
 More topics will be added as I continue learning CSS.
 
 ---
@@ -237,6 +250,7 @@ CSS-Learning/
 ├── Day16_CSS_Z_Index_and_Variables/
 ├── Day17_CSS_Linkable_Icon_Button/
 ├── Day18_CSS_Dropdown_Menu/
+├── Day19_CSS_Responsive_Web_Design/
 └── README.md
 ```
 
@@ -266,7 +280,7 @@ The purpose of this repository is to:
 
 # 📈 Current Progress
 
-- ✅ 18 Learning Days Completed
+- ✅ 19 Learning Days Completed
 - ✅ CSS Basics Learned
 - ✅ Class & ID Selectors Learned
 - ✅ Fonts & Text Styling Learned
@@ -285,6 +299,7 @@ The purpose of this repository is to:
 - ✅ Z-Index & CSS Variables Learned
 - ✅ Linkable Icon Buttons Learned
 - ✅ Dropdown Menu Design Learned
+- ✅ Responsive Web Design Learned
 - 🔄 Continuing Advanced CSS
 
 ---
@@ -295,8 +310,8 @@ The purpose of this repository is to:
 - CSS Transition
 - CSS Animation
 - CSS Filters
-- CSS Media Queries
-- Responsive Web Design
+- CSS Clip Path
+- CSS Custom Properties (Advanced)
 - CSS Projects
 
 More topics and projects will be added as I continue learning.
