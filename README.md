@@ -2,232 +2,42 @@
 
 Welcome to my **CSS Learning** repository!
 
-This repository documents my journey of learning **CSS3** through daily practice, hands-on exercises, and mini projects. It contains all the source codes I write while building a strong foundation in modern Web Development.
+This repository documents my journey of learning **CSS3** from beginner to advanced through daily practice, hands-on exercises, and mini projects.
+
+Each learning day is organized into its own folder with a dedicated **README.md** containing the concepts I studied, practice files, learning objectives, and skills gained.
 
 ---
 
 # 📚 Learning Progress
 
-## ✅ Day 01 - CSS Basics
-- Introduction to CSS
-- External CSS
-- CSS Syntax
-- CSS Selectors
-- Applying Styles with External Stylesheet
+| Day | Topic | Status |
+|------|-------|:------:|
+| Day 01 | CSS Basics | ✅ |
+| Day 02 | CSS Class & ID | ✅ |
+| Day 03 | CSS Fonts & Text Styling | ✅ |
+| Day 04 | CSS Box Model | ✅ |
+| Day 05 | CSS Display & Width | ✅ |
+| Day 06 | CSS Pseudo Class & Pseudo Element | ✅ |
+| Day 07 | CSS Specificity | ✅ |
+| Day 08 | CSS Background | ✅ |
+| Day 09 | CSS Float | ✅ |
+| Day 10 | CSS Flexbox | ✅ |
+| Day 11 | CSS Grid | ✅ |
+| Day 12 | CSS Position | ✅ |
+| Day 13 | CSS Navigation Menu | ✅ |
+| Day 14 | CSS Box Sizing & Opacity | ✅ |
+| Day 15 | CSS Card Design | ✅ |
+| Day 16 | CSS Z-Index & Variables | ✅ |
+| Day 17 | CSS Linkable Icon Button | ✅ |
+| Day 18 | CSS Dropdown Menu | ✅ |
+| Day 19 | CSS Responsive Web Design | ✅ |
+| Day 20 | CSS Transform | ✅ |
 
-## ✅ Day 02 - CSS Class & ID
-- Class Selector
-- ID Selector
-- Multiple Classes
-- Combining Selectors
-- Practical Examples of Class and ID
-
-## ✅ Day 03 - CSS Fonts & Text Styling
-- Font Family
-- Font Size
-- Font Weight
-- Font Style
-- Text Color
-- Text Alignment
-- Text Decoration
-- Text Transform
-- Letter Spacing
-- Word Spacing
-- Line Height
-- Text Shadow
-
-## ✅ Day 04 - CSS Box Model
-- Width
-- Height
-- Border
-- Margin
-- Padding
-- CSS Box Model
-- Box Sizing
-- Practical Box Model Examples
-
-## ✅ Day 05 - CSS Display & Width
-- Display Property
-- Block Elements
-- Inline Elements
-- Inline-Block Elements
-- Display: None
-- Width Property
-- Max-Width
-- Min-Width
-- Practical Examples of Display and Width
-
-## ✅ Day 06 - CSS Pseudo Class & Pseudo Element
-- Pseudo Classes
-- :hover
-- :active
-- :visited
-- :link
-- :focus
-- :first-child
-- :last-child
-- Pseudo Elements
-- ::before
-- ::after
-- ::first-letter
-- ::first-line
-- Practical Examples of Pseudo Classes and Pseudo Elements
-
-## ✅ Day 07 - CSS Specificity
-- What is CSS Specificity
-- Specificity Hierarchy
-- Inline Styles
-- ID Selectors
-- Class Selectors
-- Element Selectors
-- Universal Selector
-- !important Rule
-- Calculating Specificity
-- Practical Examples of CSS Specificity
-
-## ✅ Day 08 - CSS Background
-- Background Color
-- Background Image
-- Background Repeat
-- Background Position
-- Background Size
-- Background Attachment
-- Background Shorthand
-- Multiple Backgrounds
-- Linear Gradient
-- Radial Gradient
-- Practical Examples of CSS Backgrounds
-
-## ✅ Day 09 - CSS Float
-- Float Property
-- Left Float
-- Right Float
-- Clear Property
-- Float Layout Examples
-- Practical Examples of Float
-
-## ✅ Day 10 - CSS Flexbox
-- Flex Container
-- Flex Items
-- flex-direction
-- justify-content
-- align-items
-- align-content
-- flex-wrap
-- gap
-- flex-grow
-- flex-shrink
-- flex-basis
-- Practical Flexbox Layouts
-
-## ✅ Day 11 - CSS Grid
-- Grid Container
-- Grid Items
-- grid-template-columns
-- grid-template-rows
-- gap
-- grid-column
-- grid-row
-- Grid Areas
-- Responsive Grid Layouts
-- Practical CSS Grid Examples
-
-## ✅ Day 12 - CSS Position
-- position: static
-- position: relative
-- position: absolute
-- position: fixed
-- position: sticky
-- z-index
-- Positioning Elements
-- Practical Position Examples
-
-## ✅ Day 13 - CSS Navigation Menu
-- Navigation Bar
-- Horizontal Navigation Menu
-- Vertical Navigation Menu
-- Styling Navigation Links
-- Hover Effects
-- Active Link
-- Dropdown Menu Basics
-- Responsive Navigation Basics
-- Practical Navigation Menu Examples
-
-## ✅ Day 14 - CSS Box Sizing & Opacity
-- box-sizing Property
-- content-box
-- border-box
-- Opacity Property
-- RGBA Colors
-- Transparent Backgrounds
-- Practical Examples of Box Sizing
-- Practical Examples of Opacity
-
-## ✅ Day 15 - CSS Card Design
-- Card Layout
-- Card Header
-- Card Body
-- Card Footer
-- Border Radius
-- Box Shadow
-- Hover Effects
-- Image Styling
-- Button Styling
-- Responsive Card Design
-- Practical Card Design Examples
-
-## ✅ Day 16 - CSS Z-Index & Variables
-- z-index Property
-- Stacking Order
-- Position and z-index
-- CSS Variables
-- Declaring Variables
-- Using var() Function
-- Global Variables
-- Local Variables
-- Variable Fallback Values
-- Practical Examples of CSS Variables
-
-## ✅ Day 17 - CSS Linkable Icon Button
-- Button Styling
-- Linkable Buttons
-- Icon Buttons
-- Font Awesome Icons
-- Hover Effects
-- Active State
-- Transition Effects
-- Button Alignment
-- Practical Examples of Linkable Icon Buttons
-
-## ✅ Day 18 - CSS Dropdown Menu
-- Dropdown Menu Basics
-- Dropdown Button
-- Dropdown Content
-- Hover Dropdown
-- Nested Dropdown Menu
-- Positioning Dropdown
-- Styling Dropdown Menu
-- Responsive Dropdown Menu
-- Practical Dropdown Menu Examples
-
-## ✅ Day 19 - CSS Responsive Web Design
-- Responsive Web Design Basics
-- Viewport Meta Tag
-- Fluid Layouts
-- Relative Units (`%`, `em`, `rem`, `vw`, `vh`)
-- Responsive Images
-- CSS Media Queries
-- Mobile-First Design
-- Breakpoints
-- Responsive Navigation
-- Responsive Grid & Flexbox Layouts
-- Practical Responsive Web Design Examples
-
-More topics will be added as I continue learning CSS.
+More learning days will be added as I continue exploring CSS.
 
 ---
 
-# 📁 Repository Structure
+# 📂 Repository Structure
 
 ```text
 CSS-Learning/
@@ -251,6 +61,7 @@ CSS-Learning/
 ├── Day17_CSS_Linkable_Icon_Button/
 ├── Day18_CSS_Dropdown_Menu/
 ├── Day19_CSS_Responsive_Web_Design/
+├── Day20_CSS_Transform/
 └── README.md
 ```
 
@@ -266,55 +77,48 @@ CSS-Learning/
 
 ---
 
-# 🎯 Repository Purpose
+# 🎯 Repository Goals
 
-The purpose of this repository is to:
+This repository is designed to:
 
-- Learn CSS from beginner to advanced level.
-- Practice every CSS concept through hands-on coding.
-- Build responsive web pages.
-- Create clean and maintainable stylesheets.
-- Prepare for modern Frontend Development.
+- Learn CSS from beginner to advanced
+- Practice every concept through hands-on coding
+- Build responsive and modern web interfaces
+- Improve UI/UX design skills
+- Write clean, reusable, and maintainable CSS
+- Create a strong foundation for Frontend Development
 
 ---
 
 # 📈 Current Progress
 
-- ✅ 19 Learning Days Completed
-- ✅ CSS Basics Learned
-- ✅ Class & ID Selectors Learned
-- ✅ Fonts & Text Styling Learned
-- ✅ CSS Box Model Learned
-- ✅ Display & Width Properties Learned
-- ✅ Pseudo Classes & Pseudo Elements Learned
-- ✅ CSS Specificity Learned
-- ✅ CSS Backgrounds Learned
-- ✅ Float Layouts Learned
-- ✅ Flexbox Learned
-- ✅ CSS Grid Learned
-- ✅ CSS Positioning Learned
-- ✅ Navigation Menu Design Learned
-- ✅ Box Sizing & Opacity Learned
-- ✅ Card Design Learned
-- ✅ Z-Index & CSS Variables Learned
-- ✅ Linkable Icon Buttons Learned
-- ✅ Dropdown Menu Design Learned
-- ✅ Responsive Web Design Learned
+- ✅ 20 Learning Days Completed
+- ✅ 20 Detailed Practice Modules
+- ✅ Responsive Web Design
+- ✅ CSS Grid & Flexbox
+- ✅ Modern UI Components
+- ✅ CSS Transform & Transition
 - 🔄 Continuing Advanced CSS
 
 ---
 
 # 🚀 Upcoming Topics
 
-- CSS Transform
-- CSS Transition
 - CSS Animation
+- CSS Keyframes
 - CSS Filters
 - CSS Clip Path
 - CSS Custom Properties (Advanced)
 - CSS Projects
 
-More topics and projects will be added as I continue learning.
+---
+
+# 📖 How to Use This Repository
+
+1. Open any **DayXX** folder.
+2. Read the folder's **README.md**.
+3. Explore the HTML and CSS source code.
+4. Practice and experiment with the examples.
 
 ---
 
@@ -333,8 +137,10 @@ More topics and projects will be added as I continue learning.
 - 🎓 CSE Student, Jashore University of Science and Technology (JUST)
 - 💻 Aspiring Frontend Developer
 - 🏆 Competitive Programming Enthusiast
-- 🚀 Passionate about Problem Solving and Continuous Learning
+- 🚀 Passionate about Web Development and Continuous Learning
 
 ---
 
-⭐ If you find this repository helpful, feel free to give it a **Star**.
+## ⭐ Support
+
+If you find this repository helpful, consider giving it a **Star**. It motivates me to keep learning and sharing my progress!
