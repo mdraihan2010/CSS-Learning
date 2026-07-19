@@ -1,0 +1,468 @@
+/* ===================================
+   CSS Reset
+=================================== */
+
+* {
+
+    margin: 0;
+
+    padding: 0;
+
+    box-sizing: border-box;
+
+}
+
+
+/* ===================================
+   Body
+=================================== */
+
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    background: #f4f4f4;
+
+}
+
+
+/* ===================================
+   Header
+=================================== */
+
+header {
+
+    background: #1565c0;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 40px;
+
+}
+
+header h1 {
+
+    margin-bottom: 10px;
+
+}
+
+
+/* ===================================
+   Main Container
+=================================== */
+
+.container {
+
+    width: 90%;
+
+    max-width: 1200px;
+
+    margin: 40px auto;
+
+    display: grid;
+
+    grid-template-columns: repeat(3, 1fr);
+
+    gap: 30px;
+
+}
+
+
+/* ===================================
+   Card
+=================================== */
+
+.card {
+
+    background: white;
+
+    padding: 25px;
+
+    text-align: center;
+
+    border-radius: 10px;
+
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .15);
+
+}
+
+
+.card h2 {
+
+    margin-bottom: 25px;
+
+}
+
+
+/* ===================================
+   Common Box
+=================================== */
+
+.box {
+
+    width: 120px;
+
+    height: 120px;
+
+    margin: auto;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    background: royalblue;
+
+    color: white;
+
+    font-weight: bold;
+
+    border-radius: 10px;
+
+    cursor: pointer;
+
+    transition: all .5s ease;
+
+}
+
+
+/* ===================================
+   translate()
+=================================== */
+
+.translate:hover {
+
+    transform: translate(30px, 20px);
+
+}
+
+
+/* ===================================
+   translateX()
+=================================== */
+
+.translate-x:hover {
+
+    transform: translateX(40px);
+
+}
+
+
+/* ===================================
+   translateY()
+=================================== */
+
+.translate-y:hover {
+
+    transform: translateY(30px);
+
+}
+
+
+/* ===================================
+   scale()
+=================================== */
+
+.scale:hover {
+
+    transform: scale(1.3);
+
+}
+
+
+/* ===================================
+   scaleX()
+=================================== */
+
+.scale-x:hover {
+
+    transform: scaleX(1.5);
+
+}
+
+
+/* ===================================
+   scaleY()
+=================================== */
+
+.scale-y:hover {
+
+    transform: scaleY(1.5);
+
+}
+
+
+/* ===================================
+   rotate()
+=================================== */
+
+.rotate:hover {
+
+    transform: rotate(45deg);
+
+}
+
+
+/* ===================================
+   skew()
+=================================== */
+
+.skew:hover {
+
+    transform: skew(20deg, 10deg);
+
+}
+
+
+/* ===================================
+   skewX()
+=================================== */
+
+.skew-x:hover {
+
+    transform: skewX(25deg);
+
+}
+
+
+/* ===================================
+   skewY()
+=================================== */
+
+.skew-y:hover {
+
+    transform: skewY(25deg);
+
+}
+
+
+/* ===================================
+   Multiple Transform
+=================================== */
+
+.multiple:hover {
+
+    transform: translateY(-15px) rotate(20deg) scale(1.2);
+
+}
+
+
+/* ===================================
+   Hover Demo
+=================================== */
+
+.hover-box:hover {
+
+    transform: scale(1.2);
+
+    background: crimson;
+
+}
+
+/* ===================================
+   Different Colors for Each Box
+=================================== */
+
+.translate {
+
+    background: #2196F3;
+
+}
+
+.translate-x {
+
+    background: #4CAF50;
+
+}
+
+.translate-y {
+
+    background: #FF9800;
+
+}
+
+.scale {
+
+    background: #9C27B0;
+
+}
+
+.scale-x {
+
+    background: #009688;
+
+}
+
+.scale-y {
+
+    background: #795548;
+
+}
+
+.rotate {
+
+    background: #E91E63;
+
+}
+
+.skew {
+
+    background: #3F51B5;
+
+}
+
+.skew-x {
+
+    background: #607D8B;
+
+}
+
+.skew-y {
+
+    background: #8BC34A;
+
+}
+
+.multiple {
+
+    background: #FF5722;
+
+}
+
+.hover-box {
+
+    background: #673AB7;
+
+}
+
+
+/* ===================================
+   Card Hover
+=================================== */
+
+.card {
+
+    transition: all .3s ease;
+
+}
+
+.card:hover {
+
+    transform: translateY(-8px);
+
+    box-shadow: 0 12px 25px rgba(0, 0, 0, .25);
+
+}
+
+
+/* ===================================
+   Responsive Design
+=================================== */
+
+@media (max-width:992px) {
+
+    .container {
+
+        grid-template-columns: repeat(2, 1fr);
+
+    }
+
+}
+
+
+/* ===================================
+   Mobile Devices
+=================================== */
+
+@media (max-width:768px) {
+
+    .container {
+
+        grid-template-columns: 1fr;
+
+    }
+
+    header {
+
+        padding: 30px 15px;
+
+    }
+
+    header h1 {
+
+        font-size: 32px;
+
+    }
+
+    header p {
+
+        font-size: 16px;
+
+    }
+
+    .card {
+
+        padding: 20px;
+
+    }
+
+    .box {
+
+        width: 100px;
+
+        height: 100px;
+
+        font-size: 15px;
+
+    }
+
+}
+
+
+/* ===================================
+   Small Mobile Devices
+=================================== */
+
+@media (max-width:480px) {
+
+    header h1 {
+
+        font-size: 26px;
+
+    }
+
+    header p {
+
+        font-size: 14px;
+
+    }
+
+    .box {
+
+        width: 90px;
+
+        height: 90px;
+
+        font-size: 14px;
+
+    }
+
+}
+
+
+/* ===================================
+   Large Screens
+=================================== */
+
+@media (min-width:1200px) {
+
+    .container {
+
+        max-width: 1300px;
+
+    }
+
+}
