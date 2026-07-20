@@ -1,0 +1,428 @@
+/* ===================================
+   CSS Reset
+=================================== */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ===================================
+   Body
+=================================== */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f4f4f4;
+}
+
+/* ===================================
+   Header
+=================================== */
+
+header {
+    background: #1565c0;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
+
+/* ===================================
+   Container
+=================================== */
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 40px auto;
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+/* ===================================
+   Card
+=================================== */
+
+.card {
+
+    background: white;
+
+    padding: 25px;
+
+    border-radius: 10px;
+
+    text-align: center;
+
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .15);
+
+}
+
+.card h2 {
+
+    margin-bottom: 25px;
+
+}
+
+/* ===================================
+   Common Box
+=================================== */
+
+.box {
+
+    width: 120px;
+
+    height: 120px;
+
+    margin: auto;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    color: white;
+
+    font-weight: bold;
+
+    border-radius: 10px;
+
+}
+
+/* ===================================
+   Keyframes
+=================================== */
+
+@keyframes moveBox {
+
+    from {
+
+        transform: translateX(0);
+
+    }
+
+    to {
+
+        transform: translateX(80px);
+
+    }
+
+}
+
+/* ===================================
+   animation-name
+=================================== */
+
+.name-box {
+
+    background: #2196F3;
+
+    animation-name: moveBox;
+
+    animation-duration: 2s;
+
+}
+
+/* ===================================
+   animation-duration
+=================================== */
+
+.duration-box {
+
+    background: #4CAF50;
+
+    animation-name: moveBox;
+
+    animation-duration: 4s;
+
+}
+
+/* ===================================
+   animation-delay
+=================================== */
+
+.delay-box {
+
+    background: #FF9800;
+
+    animation-name: moveBox;
+
+    animation-duration: 2s;
+
+    animation-delay: 2s;
+
+}
+
+/* ===================================
+   animation-iteration-count
+=================================== */
+
+.iteration-box {
+
+    background: #9C27B0;
+
+    animation-name: moveBox;
+
+    animation-duration: 2s;
+
+    animation-iteration-count: infinite;
+
+}
+
+/* ===================================
+   animation-direction
+=================================== */
+
+.direction-box {
+
+    background: #009688;
+
+    animation-name: moveBox;
+
+    animation-duration: 2s;
+
+    animation-direction: alternate;
+
+    animation-iteration-count: infinite;
+
+}
+
+/* ===================================
+   animation-fill-mode
+=================================== */
+
+.fill-box {
+
+    background: #795548;
+
+    animation-name: moveBox;
+
+    animation-duration: 3s;
+
+    animation-fill-mode: forwards;
+
+}
+
+/* ===================================
+   animation-timing-function
+=================================== */
+
+.timing-box {
+
+    background: #E91E63;
+
+    animation-name: moveBox;
+
+    animation-duration: 3s;
+
+    animation-timing-function: ease-in-out;
+
+}
+
+/* ===================================
+   animation-play-state
+=================================== */
+
+.play-box {
+
+    background: #607D8B;
+
+    animation-name: moveBox;
+
+    animation-duration: 2s;
+
+    animation-iteration-count: infinite;
+
+    animation-play-state: running;
+
+}
+
+.play-box:hover {
+
+    animation-play-state: paused;
+
+}
+
+/* ===================================
+   animation shorthand
+=================================== */
+
+.shorthand-box {
+
+    background: #FF5722;
+
+    animation: moveBox 2s ease-in-out infinite alternate;
+
+}
+
+/* ===================================
+   Card Hover Effect
+=================================== */
+
+.card {
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 25px rgba(0, 0, 0, 0.25);
+}
+
+
+/* ===================================
+   Extra Animation Examples
+=================================== */
+
+/* Bouncing Ball */
+
+.bounce-ball {
+    width: 80px;
+    height: 80px;
+    background: crimson;
+    border-radius: 50%;
+    margin: 40px auto;
+
+    animation: bounce 1s infinite alternate;
+}
+
+@keyframes bounce {
+
+    from {
+
+        transform: translateY(0);
+
+    }
+
+    to {
+
+        transform: translateY(-120px);
+
+    }
+
+}
+
+
+/* Rotating Box */
+
+.rotate-box {
+
+    width: 90px;
+
+    height: 90px;
+
+    background: royalblue;
+
+    margin: 40px auto;
+
+    animation: rotateBox 3s linear infinite;
+
+}
+
+@keyframes rotateBox {
+
+    from {
+
+        transform: rotate(0deg);
+
+    }
+
+    to {
+
+        transform: rotate(360deg);
+
+    }
+
+}
+
+
+/* Color Changing Box */
+
+.color-box {
+
+    width: 90px;
+
+    height: 90px;
+
+    margin: 40px auto;
+
+    animation: changeColor 4s infinite;
+
+}
+
+@keyframes changeColor {
+
+    0% {
+
+        background: red;
+
+    }
+
+    25% {
+
+        background: orange;
+
+    }
+
+    50% {
+
+        background: green;
+
+    }
+
+    75% {
+
+        background: blue;
+
+    }
+
+    100% {
+
+        background: purple;
+
+    }
+
+}
+
+
+/* Loading Spinner */
+
+.spinner {
+
+    width: 80px;
+
+    height: 80px;
+
+    margin: 40px auto;
+
+    border: 8px solid #ddd;
+
+    border-top: 8px solid royalblue;
+
+    border-radius: 50%;
+
+    animation: spin 1s linear infinite;
+
+}
+
+@keyframes spin {
+
+    from {
+
+        transform: rotate(0deg);
+
+    }
+
+    to {
+
+        transform: rotate(360deg);
+
+    }
+
+}
