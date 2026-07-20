@@ -32,6 +32,7 @@ Each learning day is organized into its own folder with a dedicated **README.md*
 | Day 18 | CSS Dropdown Menu | ✅ |
 | Day 19 | CSS Responsive Web Design | ✅ |
 | Day 20 | CSS Transform | ✅ |
+| Day 21 | CSS Animation | ✅ |
 
 More learning days will be added as I continue exploring CSS.
 
@@ -62,6 +63,7 @@ CSS-Learning/
 ├── Day18_CSS_Dropdown_Menu/
 ├── Day19_CSS_Responsive_Web_Design/
 ├── Day20_CSS_Transform/
+├── Day21_CSS_Animation/
 └── README.md
 ```
 
@@ -81,35 +83,42 @@ CSS-Learning/
 
 This repository is designed to:
 
-- Learn CSS from beginner to advanced
-- Practice every concept through hands-on coding
-- Build responsive and modern web interfaces
-- Improve UI/UX design skills
-- Write clean, reusable, and maintainable CSS
-- Create a strong foundation for Frontend Development
+- Learn CSS from beginner to advanced.
+- Practice every CSS concept through hands-on coding.
+- Build responsive and modern web interfaces.
+- Improve UI/UX design skills.
+- Write clean, reusable, and maintainable CSS.
+- Build a strong foundation for Frontend Development.
 
 ---
 
 # 📈 Current Progress
 
-- ✅ 20 Learning Days Completed
-- ✅ 20 Detailed Practice Modules
+- ✅ 21 Learning Days Completed
+- ✅ 21 Detailed Practice Modules
+- ✅ CSS Fundamentals
+- ✅ CSS Box Model & Layout
+- ✅ CSS Float, Flexbox & Grid
+- ✅ CSS Positioning
+- ✅ Navigation & UI Components
 - ✅ Responsive Web Design
-- ✅ CSS Grid & Flexbox
-- ✅ Modern UI Components
 - ✅ CSS Transform & Transition
+- ✅ CSS Animation
 - 🔄 Continuing Advanced CSS
 
 ---
 
 # 🚀 Upcoming Topics
 
-- CSS Animation
-- CSS Keyframes
 - CSS Filters
 - CSS Clip Path
+- CSS Masking
+- Glassmorphism Design
+- Neumorphism Design
 - CSS Custom Properties (Advanced)
-- CSS Projects
+- Advanced CSS Projects
+
+More topics and projects will be added as I continue learning.
 
 ---
 
@@ -119,6 +128,7 @@ This repository is designed to:
 2. Read the folder's **README.md**.
 3. Explore the HTML and CSS source code.
 4. Practice and experiment with the examples.
+5. Follow the learning sequence from **Day 01** to the latest day.
 
 ---
 
@@ -143,4 +153,4 @@ This repository is designed to:
 
 ## ⭐ Support
 
-If you find this repository helpful, consider giving it a **Star**. It motivates me to keep learning and sharing my progress!
+If you find this repository helpful, consider giving it a **Star** ⭐. Your support motivates me to continue learning, building, and sharing my progress with the developer community.
