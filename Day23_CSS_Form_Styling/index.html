@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>CSS Form Styling</title>
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <!-- ===========================
+         Form Container
+    ============================ -->
+
+    <div class="container">
+      <form action="">
+        <h1>Registration Form</h1>
+
+        <!-- First Name -->
+
+        <label for="fname">First Name</label>
+
+        <input
+          type="text"
+          id="fname"
+          name="fname"
+          placeholder="Enter your first name"
+        />
+
+        <!-- Last Name -->
+
+        <label for="lname">Last Name</label>
+
+        <input
+          type="text"
+          id="lname"
+          name="lname"
+          placeholder="Enter your last name"
+        />
+
+        <!-- Email -->
+
+        <label for="email">Email</label>
+
+        <input
+          type="email"
+          id="email"
+          name="email"
+          placeholder="Enter your email"
+        />
+
+        <!-- Password -->
+
+        <label for="password">Password</label>
+
+        <input
+          type="password"
+          id="password"
+          name="password"
+          placeholder="Enter your password"
+        />
+
+        <!-- Search -->
+
+        <label for="search">Search</label>
+
+        <input type="search" id="search" placeholder="Search here..." />
+
+        <!-- Subject -->
+
+        <label for="subjects">Programming Language</label>
+
+        <select id="subjects">
+          <option>C Program</option>
+
+          <option>C++ Program</option>
+
+          <option>Java Program</option>
+
+          <option>Python Program</option>
+
+          <option>JavaScript</option>
+        </select>
+
+        <!-- Textarea -->
+
+        <label for="message">Message</label>
+
+        <textarea id="message" rows="6" placeholder="Write your message...">
+        </textarea>
+
+        <!-- Buttons -->
+
+        <div class="btn-group">
+          <input type="submit" value="Submit" />
+
+          <input type="reset" value="Reset" />
+        </div>
+      </form>
+    </div>
+  </body>
+</html>
