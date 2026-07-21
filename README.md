@@ -33,6 +33,7 @@ Each learning day is organized into its own folder with a dedicated **README.md*
 | Day 19 | CSS Responsive Web Design | ✅ |
 | Day 20 | CSS Transform | ✅ |
 | Day 21 | CSS Animation | ✅ |
+| Day 22 | CSS Table Styling | ✅ |
 
 More learning days will be added as I continue exploring CSS.
 
@@ -64,6 +65,7 @@ CSS-Learning/
 ├── Day19_CSS_Responsive_Web_Design/
 ├── Day20_CSS_Transform/
 ├── Day21_CSS_Animation/
+├── Day22_CSS_Table_Styling/
 └── README.md
 ```
 
@@ -94,8 +96,8 @@ This repository is designed to:
 
 # 📈 Current Progress
 
-- ✅ 21 Learning Days Completed
-- ✅ 21 Detailed Practice Modules
+- ✅ 22 Learning Days Completed
+- ✅ 22 Detailed Practice Modules
 - ✅ CSS Fundamentals
 - ✅ CSS Box Model & Layout
 - ✅ CSS Float, Flexbox & Grid
@@ -104,12 +106,14 @@ This repository is designed to:
 - ✅ Responsive Web Design
 - ✅ CSS Transform & Transition
 - ✅ CSS Animation
+- ✅ CSS Table Styling
 - 🔄 Continuing Advanced CSS
 
 ---
 
 # 🚀 Upcoming Topics
 
+- CSS Forms Styling
 - CSS Filters
 - CSS Clip Path
 - CSS Masking
@@ -153,4 +157,6 @@ More topics and projects will be added as I continue learning.
 
 ## ⭐ Support
 
-If you find this repository helpful, consider giving it a **Star** ⭐. Your support motivates me to continue learning, building, and sharing my progress with the developer community.
+If you find this repository helpful, consider giving it a **Star** ⭐.
+
+Your support motivates me to continue learning, building, and sharing my progress with the developer community.
